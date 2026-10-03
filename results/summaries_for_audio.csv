@@ -1,0 +1,251 @@
+image,true_grade,pred_grade,summary
+4095_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+11527_left,0,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+35004_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+25941_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+28774_right,0,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms. There are no signs of severe features like hemorrhages or neovascularization.
+17561_left,0,0.0,The fundus appears normal with no signs of diabetic retinopathy. No treatment is currently indicated.
+8316_right,0,0.0,"The fundus appears normal with no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+21539_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+42485_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. A follow-up examination is recommended in 6 months to monitor for any changes.
+32246_right,0,0.0,The image shows no signs of diabetic retinopathy. The fundus appears normal. Regular follow-up is recommended.
+18923_right,0,0.0,"The image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are visible."
+42070_left,0,0.0,"The fundus image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+42515_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+19627_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+26020_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+41965_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+35277_left,0,0.0,The fundus appears normal with no signs of diabetic retinopathy. No treatment is currently indicated.
+15644_left,0,0.0,"The image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+40014_left,0,0.0,The image shows no signs of diabetic retinopathy. The patient is currently at low risk for progression.
+13536_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any future changes.
+27067_left,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+7024_right,0,0.0,The fundus appears normal with no signs of diabetic retinopathy. No abnormalities were detected.
+35298_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+2840_left,0,0.0,The image shows no signs of diabetic retinopathy. A follow-up appointment is recommended to monitor for any changes.
+11232_left,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+14333_right,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+23850_left,0,0.0,"The fundus image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+41948_right,0,0.0,The fundus appears normal with no signs of diabetic retinopathy. No abnormalities were detected.
+4274_left,0,0.0,The fundus appears normal with no signs of diabetic retinopathy. A follow-up examination is recommended in 6 months to monitor for any changes.
+8320_left,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+13769_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+27496_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+32089_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+19180_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+9857_left,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+32942_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+3758_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+6193_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+41645_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+6429_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+20325_right,0,0.0,"The fundus image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+14981_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+29407_right,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+29043_left,0,0.0,The image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+41287_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+24542_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+5573_right,0,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+1394_left,0,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+43816_left,0,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+34526_right,0,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, and cotton wool spots. This indicates a high level of diabetic retinopathy."
+41804_left,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+20404_right,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+17317_left,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+40757_right,1,0.0,"The fundus image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+41863_right,1,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored closely for progression."
+15855_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+8513_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+8889_left,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+38163_left,1,0.0,The fundus image shows no signs of diabetic retinopathy. A follow-up examination is recommended in 6 months to monitor for any changes.
+16818_left,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+6175_right,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is recommended to assess for progression."
+13643_right,1,2.0,"The fundus image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is recommended to assess for progression."
+43973_right,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+19859_right,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+25203_left,1,0.0,"The fundus image shows no signs of diabetic retinopathy. No microaneurysms, hemorrhages, or other abnormalities are present."
+9959_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+16612_right,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+6772_left,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+10297_right,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+1932_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+4885_right,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+20019_left,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+32307_left,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+19849_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+42615_left,1,2.0,"The image shows microaneurysms, indicating moderate non-proliferative diabetic retinopathy. No other significant findings are present."
+28455_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+12070_right,1,0.0,The fundus appears normal. No signs of diabetic retinopathy are present.
+5994_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+14825_right,1,0.0,The fundus image shows no signs of diabetic retinopathy. A follow-up appointment is recommended to monitor for any future development of diabetic retinopathy.
+21294_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+2034_left,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+43291_left,1,0.0,The image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+24668_right,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is recommended to assess for progression.
+27534_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+3587_right,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+17732_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+21513_right,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. No signs of severe features or neovascularization are present.
+24299_left,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+28905_left,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+25458_left,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+4524_right,1,0.0,The image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+13333_right,1,3.0,"The image shows a fundus with numerous microaneurysms, indicating severe non-proliferative diabetic retinopathy. There are no signs of neovascularization or significant hemorrhages."
+26319_right,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is recommended to assess for progression.
+30146_right,1,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+26487_right,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+20784_left,1,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+37675_right,1,0.0,The image shows no signs of diabetic retinopathy. The fundus appears normal. A follow-up exam is recommended to monitor for any future changes.
+27223_left,1,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+12547_right,1,2.0,"The image shows microaneurysms, indicating moderate non-proliferative diabetic retinopathy. There are no other significant findings."
+19075_right,1,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+4698_right,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. No signs of severe features or neovascularization are present.
+17139_left,2,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+31568_right,2,3.0,"The image shows significant diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high risk of progression."
+33323_left,2,4.0,"The image shows significant diabetic retinopathy with neovascularization, hemorrhages, and exudates. This indicates a high risk for vision loss and requires prompt specialist attention."
+2011_left,2,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is recommended to assess for progression."
+12536_left,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. No signs of severe features or neovascularization are present.
+40980_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and cotton wool spots. Further evaluation is needed to assess for progression."
+39192_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored closely for progression."
+40213_right,2,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, cotton wool spots, venous beading, and neovascularization. This indicates a high-risk diabetic retinopathy."
+40622_left,2,2.0,"The image shows microaneurysms, indicating moderate non-proliferative diabetic retinopathy. No other significant findings are present."
+27379_left,2,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+16038_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and hard exudates. Further evaluation is needed to monitor for progression."
+22043_left,2,4.0,"This image shows significant retinal hemorrhages, cotton wool spots, and venous beading, indicating a high level of diabetic retinopathy. The presence of neovascularization suggests a proliferative stage."
+9528_right,2,3.0,"The image shows significant microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates severe non-proliferative diabetic retinopathy."
+6276_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+42392_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+21192_left,2,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+9232_left,2,0.0,The fundus image shows no signs of diabetic retinopathy. A follow-up examination is recommended in 6 months to monitor for any changes.
+38935_left,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is recommended to assess for progression.
+15074_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and hard exudates. Further monitoring is recommended to assess for progression."
+28387_right,2,2.0,"The image shows microaneurysms, hemorrhages, and hard exudates, indicating moderate non-proliferative diabetic retinopathy. Further evaluation is needed to assess the progression of the disease."
+39981_right,2,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. There are numerous microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and vitreous hemorrhage."
+35270_right,2,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+28344_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to monitor for progression."
+35936_right,2,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. There are no other significant findings."
+43363_left,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+24221_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading."
+34476_right,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+32216_left,2,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+26366_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+24092_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+2424_left,2,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+18970_right,2,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, and cotton wool spots. This indicates a high level of diabetic retinopathy."
+2613_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and hard exudates. The patient should be monitored for progression."
+38670_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and cotton wool spots. Further evaluation is needed to assess for progression."
+3418_right,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+21024_left,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+9177_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and hard exudates. Further evaluation is needed to assess the progression of the disease."
+22712_left,2,3.0,"The image shows significant diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+6624_right,2,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+5213_right,2,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+1178_right,2,3.0,"The image shows signs of severe non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a significant level of diabetic retinopathy."
+8455_right,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to monitor for progression."
+15696_left,2,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy, including neovascularization, hemorrhages, and cotton wool spots. The patient needs urgent evaluation and treatment by a retinal specialist."
+4403_left,2,3.0,"The image shows signs of diabetic retinopathy, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. The severity is considered severe non-proliferative diabetic retinopathy."
+33876_left,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+26108_right,2,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is recommended to assess for progression.
+10112_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+15914_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to monitor for progression."
+9452_left,2,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored for progression."
+99_right,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+20905_left,3,4.0,"This image shows significant retinal hemorrhages, cotton wool spots, and venous beading, indicating a high level of diabetic retinopathy. The presence of neovascularization suggests a proliferative stage."
+29097_left,3,3.0,"This image shows significant retinal hemorrhages, cotton wool spots, and venous beading, indicating severe non-proliferative diabetic retinopathy. The patient requires prompt ophthalmological attention."
+36130_left,3,4.0,The image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and extensive hemorrhages indicates a high risk of vision loss.
+32062_right,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+7623_right,3,4.0,"This image shows significant diabetic retinopathy with extensive hemorrhages, hard exudates, cotton wool spots, and venous beading. The presence of neovascularization indicates proliferative diabetic retinopathy."
+2275_left,3,3.0,"This image shows significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading, indicating severe non-proliferative diabetic retinopathy. Further evaluation is needed to monitor for progression."
+3444_right,3,4.0,"This fundus image shows significant retinal hemorrhages, exudates, and cotton wool spots, indicating proliferative diabetic retinopathy. The presence of neovascularization suggests a high risk of vision loss."
+2577_right,3,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+14109_left,3,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. There are numerous microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading."
+10153_left,3,3.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, cotton wool spots, and venous beading. The severity is considered severe non-proliferative diabetic retinopathy."
+43008_right,3,3.0,"The image shows signs of severe non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored closely for progression."
+23787_right,3,2.0,"The image shows microaneurysms, hemorrhages, and hard exudates, indicating moderate non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+16025_left,3,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+20858_left,3,4.0,This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and hemorrhages indicates a high risk of vision loss. A comprehensive ophthalmologic evaluation is necessary to determine the best course of treatment.
+23245_left,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+8699_left,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates severe non-proliferative diabetic retinopathy."
+32064_right,3,1.0,"The image shows microaneurysms, indicating mild non-proliferative diabetic retinopathy. No other significant findings are present."
+31962_right,3,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+14482_left,3,3.0,"The fundus image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates severe non-proliferative diabetic retinopathy."
+36213_right,3,3.0,"The image shows significant diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high risk of progression."
+12881_left,3,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and neovascularization. This indicates a high-risk diabetic retinopathy."
+2577_left,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+3748_right,3,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring prompt management."
+18046_left,3,4.0,"This image shows significant diabetic retinopathy with neovascularization, hemorrhages, and exudates. The patient requires prompt referral to a retinal specialist for comprehensive management."
+21233_left,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+18350_right,3,3.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+16759_left,3,4.0,This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and hemorrhages indicates a high risk of vision loss.
+15450_left,3,4.0,"This image shows significant retinal hemorrhages, cotton wool spots, and venous beading, indicating a high level of diabetic retinopathy. The presence of neovascularization suggests a proliferative stage."
+15954_left,3,3.0,"The fundus image shows significant microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates severe non-proliferative diabetic retinopathy."
+29604_right,3,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored regularly to prevent progression to proliferative diabetic retinopathy."
+33374_left,3,3.0,"The image shows signs of diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a severe non-proliferative diabetic retinopathy."
+27773_right,3,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further monitoring is needed to assess for progression.
+14129_right,3,4.0,"This image shows significant retinal findings, including neovascularization, hemorrhages, and cotton wool spots. This indicates a high-risk proliferative diabetic retinopathy."
+12014_left,3,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and other signs indicates a high risk for vision loss. Prompt ophthalmological intervention is crucial."
+32821_left,3,3.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates severe non-proliferative diabetic retinopathy."
+3343_right,3,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to assess the progression of the disease."
+34445_right,3,4.0,"This image shows significant retinal hemorrhages, exudates, and cotton wool spots, indicating a high level of diabetic retinopathy. The presence of neovascularization confirms proliferative diabetic retinopathy."
+18819_right,3,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring prompt specialist attention."
+36740_right,3,3.0,"The image shows significant diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high risk of progression."
+40731_left,3,4.0,This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and extensive hemorrhages indicates a high risk for vision loss. Prompt referral to a retinal specialist is crucial for further evaluation and management.
+3422_right,3,4.0,"This image shows extensive retinal hemorrhages, cotton wool spots, venous beading, and neovascularization, indicating proliferative diabetic retinopathy. The patient requires urgent evaluation and treatment by a retinal specialist."
+4366_right,3,4.0,"The image shows significant diabetic retinopathy with extensive hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high risk of vision loss."
+22930_left,3,4.0,"The image shows significant diabetic retinopathy with neovascularization, hemorrhages, and other signs of advanced disease. This requires urgent ophthalmological intervention."
+15319_left,3,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+40366_right,3,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further monitoring is needed to assess for progression."
+35850_right,3,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, and cotton wool spots. Further evaluation is needed to assess the progression of the disease."
+8678_left,3,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and vitreous hemorrhage. The presence of neovascularization indicates proliferative diabetic retinopathy."
+11267_left,3,3.0,"The image shows significant microaneurysms, hemorrhages, hard exudates, and cotton wool spots, indicating severe non-proliferative diabetic retinopathy. Further monitoring is needed to assess for progression."
+8302_left,3,3.0,"The image shows signs of severe non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a significant level of diabetic retinopathy."
+9598_right,4,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and neovascularization. This indicates a high level of diabetic retinopathy."
+4688_right,4,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This indicates a high level of diabetic retinopathy."
+20432_right,4,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored for progression."
+43050_left,4,4.0,"This image shows significant retinal hemorrhages, cotton wool spots, and neovascularization, indicating a high-severity diabetic retinopathy. Immediate referral to a retinal specialist is crucial."
+17749_left,4,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. The patient should be monitored closely for progression."
+20144_right,4,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. The presence of neovascularization indicates proliferative diabetic retinopathy."
+41339_right,4,3.0,"The image shows significant microaneurysms and hemorrhages, indicating severe non-proliferative diabetic retinopathy. There are no signs of neovascularization or significant vitreous hemorrhage."
+9682_left,4,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-risk proliferative diabetic retinopathy."
+11492_left,4,4.0,"The image shows extensive retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates proliferative diabetic retinopathy."
+11854_left,4,4.0,"This image shows significant retinal abnormalities, including neovascularization, hemorrhages, and cotton wool spots. The presence of these findings indicates a high-risk proliferative diabetic retinopathy."
+37232_left,4,4.0,The image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and other signs of advanced disease warrants prompt referral to a specialist.
+35861_left,4,2.0,"The image shows microaneurysms and hemorrhages, indicating moderate non-proliferative diabetic retinopathy. Further evaluation is needed to assess for progression."
+27251_left,4,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. There is extensive retinal vascular damage, including microaneurysms, hemorrhages, and cotton wool spots. Neovascularization is not present, but the overall picture indicates a high risk of vision loss."
+41174_right,4,4.0,"This image shows extensive retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and cotton wool spots indicates a high-risk condition. Prompt ophthalmological evaluation is crucial."
+9353_right,4,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring prompt ophthalmological attention."
+17489_right,4,4.0,"This image shows extensive retinal hemorrhages, microaneurysms, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates proliferative diabetic retinopathy."
+19061_left,4,4.0,The image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and other features indicates a high risk for vision loss.
+17453_left,4,2.0,"The image shows microaneurysms, indicating moderate non-proliferative diabetic retinopathy. No other significant findings are present."
+14844_left,4,4.0,"This image shows extensive retinal abnormalities, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring immediate specialist attention."
+28929_right,4,4.0,"This fundus image shows significant diabetic retinopathy with neovascularization, hemorrhages, and other signs of severe disease. The patient needs urgent specialist care."
+13938_left,4,4.0,"The image shows extensive retinal hemorrhages, hard exudates, and cotton wool spots, indicating proliferative diabetic retinopathy. This requires prompt referral to a retinal specialist for comprehensive management."
+13308_right,4,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and cotton wool spots indicates a high risk of vision loss. Immediate ophthalmological consultation is necessary."
+7945_left,4,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to assess the progression of the disease."
+28948_left,4,4.0,"This image shows significant diabetic retinopathy with neovascularization, hemorrhages, and cotton wool spots. The patient requires prompt evaluation and management."
+15038_left,4,2.0,"The image shows microaneurysms, indicating moderate non-proliferative diabetic retinopathy. There are no signs of more severe features like hemorrhages or neovascularization."
+27251_right,4,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and vitreous hemorrhage. This indicates a high level of diabetic retinopathy."
+26772_left,4,4.0,"The image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and neovascularization. This indicates a high level of diabetic retinopathy."
+24019_right,4,4.0,"This image shows significant proliferative diabetic retinopathy with neovascularization, hemorrhages, and cotton wool spots. The patient requires prompt evaluation and management to prevent further vision loss."
+21373_right,4,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any progression.
+37332_right,4,4.0,This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and hemorrhages indicates a high risk for vision loss.
+34901_left,4,4.0,"This image shows extensive retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and cotton wool spots indicates a high risk of vision loss."
+34708_left,4,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and cotton wool spots indicates a high risk of vision loss."
+15870_right,4,2.0,"The image shows moderate non-proliferative diabetic retinopathy with microaneurysms, hemorrhages, hard exudates, and cotton wool spots. Further evaluation is needed to assess the progression of the disease."
+10904_right,4,4.0,"The image shows significant neovascularization and hemorrhages, indicating proliferative diabetic retinopathy. This requires prompt ophthalmological attention."
+13022_right,4,4.0,This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and vitreous hemorrhage indicates a high risk for vision loss. Prompt referral to a retinal specialist is crucial.
+14495_right,4,4.0,"The image shows extensive retinal hemorrhages, hard exudates, and cotton wool spots, indicating proliferative diabetic retinopathy. Further evaluation and management are necessary."
+1663_left,4,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring urgent intervention."
+28077_right,4,4.0,"The image shows significant retinal findings consistent with proliferative diabetic retinopathy, including neovascularization, hemorrhages, and cotton wool spots. This requires urgent ophthalmological attention."
+6707_right,4,4.0,"The image shows extensive retinal changes, including microaneurysms, hemorrhages, and hard exudates. These findings indicate proliferative diabetic retinopathy."
+33358_right,4,4.0,"This image shows extensive retinal abnormalities, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, neovascularization, and vitreous hemorrhage. This indicates a high-severity diabetic retinopathy requiring immediate attention."
+9863_left,4,2.0,The image shows moderate non-proliferative diabetic retinopathy with microaneurysms and hemorrhages. Further evaluation is needed to assess for progression.
+18017_left,4,0.0,The fundus image shows no signs of diabetic retinopathy. The patient should be monitored regularly to detect any changes.
+12108_left,4,4.0,"The image shows extensive retinal abnormalities, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, venous beading, and neovascularization. This indicates proliferative diabetic retinopathy."
+24773_left,4,4.0,"This image shows significant retinal findings, including microaneurysms, hemorrhages, cotton wool spots, venous beading, and vitreous hemorrhage. The presence of neovascularization indicates proliferative diabetic retinopathy."
+20752_right,4,4.0,"This image shows extensive retinal abnormalities, including neovascularization, hemorrhages, and exudates. This indicates a high-risk proliferative diabetic retinopathy."
+13066_right,4,3.0,"The image shows signs of severe non-proliferative diabetic retinopathy, including microaneurysms, hemorrhages, hard exudates, cotton wool spots, and venous beading. This requires prompt ophthalmological attention."
+31461_right,4,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and exudates indicates a high risk of vision loss. Prompt treatment is necessary to prevent further complications."
+16392_left,4,4.0,"The fundus image shows extensive retinal hemorrhages, neovascularization, and other signs of proliferative diabetic retinopathy. This indicates a high risk of vision loss and requires urgent specialist attention."
+38064_left,4,4.0,This image shows extensive retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization and other signs of advanced disease warrants prompt specialist referral.
+7853_right,4,4.0,"This image shows significant retinal findings consistent with proliferative diabetic retinopathy. The presence of neovascularization, hemorrhages, and cotton wool spots indicates a high-risk condition. A specialist consultation is necessary for appropriate treatment planning."
