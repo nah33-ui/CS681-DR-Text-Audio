@@ -1,0 +1,9 @@
+,0
+format_complete,1.0
+grade0_has_findings,0.0
+grade1_not_ma_only,0.0
+grade_ge1_no_findings,0.0
+grade4_without_pdr_signs,0.112
+pdr_signs_but_below4,0.0
+summary_contradicts_findings,0.164
+consistent,0.812

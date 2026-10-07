@@ -1,0 +1,10 @@
+,structured,zero_shot
+extraction_rate,1.0,0.496
+accuracy_strict,0.532,0.228
+accuracy_extracted,0.532,0.46
+within_1_grade,0.908,0.935
+QWK,0.785,0.691
+referable_sensitivity,0.94,0.987
+referable_specificity,0.76,0.739
+avg_seconds,16.4,43.4
+avg_words,74.2,326.3
